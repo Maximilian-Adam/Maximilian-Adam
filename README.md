@@ -1,4 +1,4 @@
-<img src="./media/Welcome_to_my_profile_clear.gif" width="100%" height="auto">
+<img src="./media/Welcome_to_my_profile_both.gif" width="100%" height="auto">
 
 
 ### Hi there 👋
