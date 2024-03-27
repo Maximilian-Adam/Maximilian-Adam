@@ -1,0 +1,17 @@
+<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @keyframes typing {
+            0% { stroke-dashoffset: 100%; }
+            50% { stroke-dashoffset: 0; }
+            100% { stroke-dashoffset: 100%; }
+        }
+        #typing {
+            stroke-dasharray: 100%;
+            stroke-dashoffset: 100%;
+            stroke: white; 
+            fill: transparent; 
+            animation: typing 10s infinite linear; 
+        }
+    </style>
+    <text id="typing" x="0" y="40" font-family="Arial" font-size="20">Welcome</text>
+</svg>

@@ -1,4 +1,7 @@
-<img src="./media/Welcome_to_my_profile_clear.gif" width="100%" height="auto">
+<p align="center">
+    <img src="./media/writing.svg" width="100%" height="auto">
+</p>
+
 
 
 ### Hi there 👋
