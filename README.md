@@ -1,4 +1,7 @@
-<img src="./media/Welcome_to_my_profile_clear.gif" width="100%" height="auto">
+<p align="center">
+    <img src="./media/writing.svg" width="100%" height="auto">
+</p>
+
 
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Max 
