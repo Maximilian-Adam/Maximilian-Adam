@@ -3,8 +3,11 @@
 
 ### Hi there, I'm Max 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arc-Cloud&show_icons=true&theme=dracula)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arc-Cloud&theme=dracula&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arc-Cloud&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arc-Cloud&theme=dracula&hide_border=false" />
+</p>
+
 <!--
 **Arc-Cloud/Arc-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
