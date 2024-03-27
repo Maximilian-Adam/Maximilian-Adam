@@ -1,3 +1,6 @@
+<img src="./media/Welcome_to_my_profile_clear.gif" width="100%" height="auto">
+
+
 ### Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arc-Cloud&show_icons=true&theme=dracula)
