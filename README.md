@@ -15,7 +15,7 @@
   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arc-Cloud&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arc-Cloud&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maximilian-Adam&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maximilian-Adam&theme=dracula&hide_border=false" />
 </p>
 
