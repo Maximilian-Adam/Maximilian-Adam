@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/maximilian-adam-509419222/)](https://www.linkedin.com/in/maximilian-adam-509419222/)
 - 💡Interested in Algorithmic trading, Software development, Compute
 - 📖 Have worked with Python, C++, MATLAB, SQL, System Verilog, RISCV
-- 🔭 I’m currently working on building a trading tool
+- 🔭 I’m currently working on building something to help people find purpose in their lives
 - 🌱 Currently Learning financial algorithms
 - 📚 I love reading about finance and historical mathematicians & physicists
   
