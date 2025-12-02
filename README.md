@@ -14,7 +14,3 @@
 - 📚 I love reading about consciousness, cryptography and historical mathematicians & physicists
   
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Maximilian-Adam&show_icons=true&theme=dracula" />
-</p>
-
